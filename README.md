@@ -1,4 +1,4 @@
-# performence_analyzer
+# performance_analyzer
 ## ReLU Branch vs Branchless Benchmark
 
 This repository contains a small Linux microbenchmark for comparing:
